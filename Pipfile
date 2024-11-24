@@ -5,8 +5,10 @@ name = "pypi"
 
 [packages]
 python-statemachine = "*"
+numpy = "*"
+roboticstoolbox-python = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.13"
+python_version = "3.11"
