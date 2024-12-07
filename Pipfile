@@ -7,9 +7,12 @@ name = "pypi"
 python-statemachine = "*"
 numpy = "*"
 matplotlib = "*"
+websockets = "*"
 roboticstoolbox-python = "*"
+swift-sim = "*"
+networkx = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.11"
+python_version = "3.8"
